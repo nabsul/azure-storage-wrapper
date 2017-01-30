@@ -1,3 +1,7 @@
+const TableClient = require( './lib/table-client' );
+const util = require( './lib/util' );
+
 module.exports = {
-	hello: () => "hi",
+	TableClient,
+	util,
 };
