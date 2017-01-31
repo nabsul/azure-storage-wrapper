@@ -11,5 +11,10 @@
   "dependencies": {
     "azure-storage": "^2.0.0",
     "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "code": "^4.0.0",
+    "lab": "^12.1.0",
+    "sinon": "^1.17.7"
   }
 }
