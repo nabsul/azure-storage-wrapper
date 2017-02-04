@@ -1,6 +1,6 @@
 {
-  "name": "azure-storage-async",
-  "version": "1.0.0",
+  "name": "azure-storage-wrapper",
+  "version": "0.5.0",
   "description": "",
   "main": "index.js",
   "scripts": {
